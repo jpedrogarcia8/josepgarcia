@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Welcome!"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<span style="font-size:18px">
+Welcome!
+</span>
 
 I am a PhD candidate in Economics at the <span style="color:DodgerBlue">
 European University Institute
