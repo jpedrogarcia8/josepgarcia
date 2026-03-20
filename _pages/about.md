@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the \textcolor{MidnightBlue}{European University Institute} in Florence, Italy. 
+I am a PhD candidate in Economics at the <span style="color:navy">
+European University Institute
+</span> in Florence, Italy. 
 
 In my research I use microdata and structural models to study how macroeconomic dynamics are shaped by heterogeneity at the firm level.
 
