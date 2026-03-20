@@ -1,5 +1,5 @@
 ---
-title: "Costs of Adjustment and Firms' Responsiveness: Evidence from a Labour Market Reform"
+title:"Costs of Adjustment and Firms' Responsiveness: Evidence from a Labour Market Reform"
 collection: publications
 category: manuscripts
 permalink: /research/2009-10-01-paper-title-number-1
