@@ -26,4 +26,6 @@ heterogeneity at the firm level</span>.
 During my PhD I worked as a trainee at the Supply Side, Labour and Surveillance Division of the <span style="color:CornflowerBlue">European Central Bank</span>.
 I am currently a <span style="color:CornflowerBlue">data replicator</span> at the <span style="color:CornflowerBlue">Journal of the European Economic Association</span>.
 
+<b> I am on the 2026-2027 academic job market. </b>
+
 Feel free to contact me at <a href="mailto:josepedro.garcia@eui.eu">josepedro.garcia@eui.eu</a>.
